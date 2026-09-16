@@ -11,7 +11,6 @@ __pycache__/
 /outputs/
 /samples/
 /wandb/
-.env
 /venv/
 .ipynb_checkpoints/
 .github/copilot-instructions.md
@@ -47,3 +46,5 @@ RETRAIN_PLAN.md*
 CORPUS_GATE_E_HANDOFF_*.md
 CORPUS_GATE_E_HANDOFF_*.sha256
 CORPUS_STRATEGY_REVIEW_*.md
+config.bat
+node_modules
